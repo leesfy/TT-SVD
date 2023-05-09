@@ -1,2 +1,2 @@
 # TT-SVD
-Tensor train decomposition
+Tensor train decomposition with arbitrary rank
